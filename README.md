@@ -1,0 +1,3 @@
+uuhhh
+Well, I now user Geyser with a Java edition server.
+However, that doesnt mean I wont make nukkit plugins.......................................
